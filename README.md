@@ -6,7 +6,7 @@
     <title>Portal Bantuan Selangor</title>
     <style>
         body { font-family: Arial, sans-serif; background-color: #fff3cd; margin: 0; padding: 0; }
-        .container { max-width: 200px; margin: auto; padding: 20px; background-color: #ffcc00; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); text-align: center; }
+        .container { max-width: 300px; margin: auto; padding: 20px; background-color: #ffcc00; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); text-align: center; }
         .hidden { display: none; }
         .button { margin: 10px; padding: 10px 20px; background-color: #ff6600; color: white; border: none; cursor: pointer; border-radius: 5px; transition: 0.3s; font-size: 16px; }
         .button:hover { background-color: #cc5500; }
